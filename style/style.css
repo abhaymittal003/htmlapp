@@ -1,0 +1,23 @@
+body {
+		background-color: #FFCC66;
+	}
+
+	h1 {
+		color: #990000;
+		background-color: #FC9804;
+	}
+		h1 {font-family: arial, verdana, sans-serif;}
+	h2 {font-family: "Times New Roman", serif;}
+	p {font-family: arial, verdana, sans-serif;}
+	td {font-family: arial, verdana, sans-serif; font-weight: bold;}
+	h1 {font-size: 30px;}
+	h2 {font-size: 12pt;}
+	h3 {font-size: 120%;}
+	p {font-size: 1em;}
+		p {
+		text-indent: 30px;
+	}
+	
+	h1 {
+		text-transform: uppercase;
+	}
